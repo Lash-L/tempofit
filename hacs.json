@@ -1,0 +1,6 @@
+{
+  "name": "Tempo Fit",
+  "hacs": "1.0.0",
+  "homeassistant": "2024.12",
+  "domains": ["sensor"]
+}

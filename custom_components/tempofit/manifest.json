@@ -1,0 +1,12 @@
+{
+  "domain": "tempofit",
+  "name": "Tempo Fit",
+  "codeowners": ["@Lash-L"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/Lash-L/tempofit",
+  "issue_tracker": "https://github.com/Lash-L/tempofit/issues",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "version": "1.0.0"
+}

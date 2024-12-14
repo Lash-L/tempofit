@@ -1,0 +1,4 @@
+/.venv/
+/pyTonalFit/
+*.pyc
+/.idea/
